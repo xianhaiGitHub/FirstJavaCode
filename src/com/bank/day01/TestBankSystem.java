@@ -1,6 +1,6 @@
 package com.bank.day01;
 /**
- * ϵͳ����
+ * 测试银行系统
  * @author zhaoxianhai
  *
  */
