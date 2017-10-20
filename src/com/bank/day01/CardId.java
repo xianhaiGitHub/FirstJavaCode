@@ -1,6 +1,6 @@
 package com.bank.day01;
 /**
- * Éú³ÉÒøÐÐ¿¨ºÅ
+ * 随机生成银行卡
  */
 public class CardId {
 	public  String cardid(){
