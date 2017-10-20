@@ -1,6 +1,6 @@
 package com.bank.day01;
-/*
- * 生成银行卡号
+/**
+ * 脡煤鲁脡脪酶脨脨驴篓潞脜
  */
 public class CardId {
 	public  String cardid(){
